@@ -1,5 +1,5 @@
 # Hello Viewers, glad to see you here!
-Kindly redirect here [Ishan](https://github.com/LouisPaul2000) to follow up!
+Kindly redirect at [Ishan](https://github.com/LouisPaul2000) to follow up!
 
 
 <!---

@@ -1,6 +1,4 @@
 # Hello Viewers, glad to see you here!
-Kindly redirect at [Ishan](https://github.com/LouisPaul2000) to follow up!
-
 
 <!---
 IshanShivanshBangroo/IshanShivanshBangroo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
